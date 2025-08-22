@@ -3,7 +3,7 @@
 
   <p1>
   -🎓 Computer Science Graduate (B.S., University of North Alabama) <br>
-  - 📄 Resume:    <br>
+  - 📄 Resume: https://github.com/Victork12/Victork12/blob/645e1d19d0de926a312e429b8b283c1061086834/Resume.pdf <br>
   -🚀 Currently seeking opportunities in Software Development, IT <br><br>
   </p1>
  
