@@ -1,16 +1,17 @@
 <h1>Victor Kumar 👋</h1> 
 <h3>Software Engineer</h3>
 
-  <p1>
-  -🎓 Computer Science Graduate (B.S., University of North Alabama) <br>
-  - 📄 Resume: https://github.com/Victork12/Victork12/blob/645e1d19d0de926a312e429b8b283c1061086834/Resume.pdf <br>
-  -🚀 Currently seeking opportunities in Software Development, IT <br><br>
-  </p1>
- 
+
+-🎓 Computer Science Graduate (B.S., University of North Alabama) <br>
+-📄 Resume: [HERE](https://github.com/Victork12/Victork12/blob/645e1d19d0de926a312e429b8b283c1061086834/Resume.pdf) <br>
+-🚀 Currently seeking opportunities in Software Development, IT <br><br>
+
+  
 <h3>Connect with me: <br> </h3>
   <p align="left">
     <a href="https://linkedin.com/in/victork12" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="victor" height="30" width="40" /></a>
-    
+    <a href="mailto:victork12@yahoo.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/yahoo-mail-app.png" alt="victork12@yahoo.com" width="40" height="40" alt="Yahoo Mail"/></a>
+
   </p>
 
 <h3>Languages and Tools:</h3>
